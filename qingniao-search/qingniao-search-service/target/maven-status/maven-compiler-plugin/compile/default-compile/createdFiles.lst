@@ -1,0 +1,3 @@
+com\qingniao\search\service\impl\ItemSearchServiceImpl.class
+com\qingniao\search\mapper\ItemSearchMapper.class
+com\qingniao\util\ItemAddListener.class

@@ -1,0 +1,4 @@
+com\qingniao\jedis\JedisClientPool.class
+com\qingniao\sso\service\impl\UserServiceImpl.class
+com\qingniao\jedis\JedisClient.class
+com\qingniao\jedis\JedisClientCluster.class

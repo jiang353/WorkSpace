@@ -1,0 +1,11 @@
+com\qingniao\mapper\TbUserMapper.class
+com\qingniao\mapper\TbItemMapper.class
+com\qingniao\mapper\TbOrderShippingMapper.class
+com\qingniao\mapper\TbItemDescMapper.class
+com\qingniao\mapper\TbContentMapper.class
+com\qingniao\mapper\TbContentCategoryMapper.class
+com\qingniao\mapper\TbItemParamItemMapper.class
+com\qingniao\mapper\TbItemParamMapper.class
+com\qingniao\mapper\TbOrderMapper.class
+com\qingniao\mapper\TbItemCatMapper.class
+com\qingniao\mapper\TbOrderItemMapper.class

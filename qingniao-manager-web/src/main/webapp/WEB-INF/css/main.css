@@ -1,0 +1,13 @@
+.main-logo{float:left;font-size:28px;color:#15428b;font-weight:bold;padding-left:20px;padding-top:5px;font-family:Arial}
+.main-exit{float:right;padding-right:20px;padding-top:8px}
+.main-exit span{color:red}
+.panel-tool-collapse{background:url('../images/accordion_collapse.png') no-repeat;}
+.panel-tool-expand{background:url('../images/accordion_expand.png') no-repeat;}
+.main-panel-header{font-size:14px}
+.main-menu-header{padding-left:10px;color:#36393a}
+.m-btn-downarrow{background:url('../images/menu_rightarrow.png') no-repeat 7px center;}
+#fm{margin:0;padding:10px 30px;}
+.ftitle{font-size:14px;font-weight:bold;color:#666;padding:5px 0;margin-bottom:10px;border-bottom:1px solid #ccc;}
+.fitem{margin-bottom:5px;}
+.fitem label{display:inline-block;width:100px;}
+
